@@ -19,7 +19,7 @@ function Features() {
             buttonLink: "https://github.com/AndresHndz0124/Proyecto-5-eCommerce/tree/main/BACKEND"
         },
         {
-            image: "https://img.freepik.com/free-psd/italian-food-template_23-2148519599.jpg",
+            image: "https://img.freepik.com/free-psd/various-templates-moody-food-restaurant-with-screen_23-2148429052.jpg",
             title: "Restaurant App React",
             text: "Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.",
             url: "https://elaborate-smakager-891d29.netlify.app/",
