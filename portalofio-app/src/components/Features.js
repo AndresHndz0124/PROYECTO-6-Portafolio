@@ -57,9 +57,9 @@ function Features() {
                 </header>
                 <p>Los siguientes proyectos fueron desarrolados como entregas finales de cada uno de los modulos que componian el bootcamp. Para conocer un poco más de como fue su implementación te dejo una prequeña descripción y link directo al repositorio de cada uno.
                 </p>
-                <div class="row gtr-150">
+                <div class="row row-cols-1 row-cols-md-3 g-4">
                     {cardsData.map((card, index) => (
-                        <div class="col-4 col-12-medium">
+                        <div class="col">
                             <Card
                                 key={index}
                                 image={card.image}
