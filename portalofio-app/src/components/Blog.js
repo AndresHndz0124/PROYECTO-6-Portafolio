@@ -4,6 +4,7 @@ import pic01 from '../Config/images/pic01.jpg';
 
 function Blog() {
     return (
+        <div>
         <section id="one" class="main style1">
         <div class="container">
             <div class="row gtr-150">
@@ -20,6 +21,8 @@ function Blog() {
             </div>
         </div>
     </section>
+
+    </div>
     );
 }
 

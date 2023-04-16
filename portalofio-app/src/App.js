@@ -1,13 +1,13 @@
 import './App.css';
+import ReactDOM from "react-dom/client";
 import './Config/assets/css/main.css';
 import './Config/assets/css/noscript.css';
-
-
-import ReactDOM from "react-dom/client";
+import initFontAwesome from "./utility/initFontAwesome";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from './components/Home';
+import Home from './Pages/Home';
+initFontAwesome();
 
 function App() {
   return (
@@ -18,6 +18,4 @@ function App() {
     </BrowserRouter>
   );
 }
-// const root = ReactDOM.createRoot(document.getElementById('root'));
-// root.render(<App />);
 export default App;

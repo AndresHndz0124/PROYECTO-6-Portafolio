@@ -23,6 +23,22 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.flex_footer {
+	display: inline-block;
+}
+
+.texto>span {
+	padding-left: 10px;
+}
+
+.card-img {
+  width: 200px;
+  height: 250px;
+}
+
+/* .texto {
+	text-align: left;
+} */
 
 .App-link {
   color: #61dafb;

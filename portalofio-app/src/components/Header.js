@@ -1,5 +1,5 @@
 import React from "react";
-import Discover from "./Log Out/Discover";
+
 
 
 function Header() {
@@ -13,7 +13,7 @@ function Header() {
                     <p>En la siguiente pagina web te contare un poco sobre mi y mis habilidades <br />
                         Dale click al siguiente botón para conocer más.</p>
                     <ul class="actions special">
-                        <li><a href="#one" class="button scrolly"><Discover/></a></li>
+                        <li><a href="#one" class="button scrolly">Discover</a></li>
                     </ul>
                 </div>
             </section>
