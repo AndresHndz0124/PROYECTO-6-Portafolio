@@ -5,6 +5,9 @@ import { faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 function FooterPage() {
     return (
         <footer className="bg-dark text-center text-white">
+            <div className="text-center p-3 fot">
+            CONTACT INFORMATION
+            </div>
 
             <div className="container p-4">
                 <section className="mb-4">
@@ -25,13 +28,7 @@ function FooterPage() {
 
                 </section>
 
-                <section className="mb-4">
-                    {/* <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
-                        repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
-                        eum harum corrupti dicta, aliquam sequi voluptate quas.
-                    </p> */}
-                </section>
+
                 <div className="flex_footer">
 
 

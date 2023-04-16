@@ -6,53 +6,54 @@ function Features() {
     const cardsData = [
         {
             image: "https://img.freepik.com/free-vector/online-shopping-concept-landing-page_23-2148253518.jpg",
-            title: "Aplicación de Comercio Electrónico",
-            text: "Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.",
+            title: "E-commerce Application",
+            text: "The following code refers to the fifth project of the Bootcamp, where an eCommerce project is developed to put into practice skills related to Fullstack applications.",
             url: "https://harmonious-fenglisu-673abc.netlify.app/login",
             buttonLink: "https://harmonious-fenglisu-673abc.netlify.app/login"
         },
         {
             image: "https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg",
             title: "Backend with MongoDB",
-            text: "Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.",
+            text: "At this URL, the server of an e-commerce application is hosted where purchases and users who log in to the website are registered.",
             url: "https://app-ecommerce.onrender.com/",
             buttonLink: "https://github.com/AndresHndz0124/Proyecto-5-eCommerce/tree/main/BACKEND"
         },
         {
             image: "https://img.freepik.com/free-psd/various-templates-moody-food-restaurant-with-screen_23-2148429052.jpg",
             title: "Restaurant App React",
-            text: "Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.",
+            text: "The objective of this project was to build a customized webpage using React, where it will be possible to store the webpage and be saved in Firebase.",
             url: "https://elaborate-smakager-891d29.netlify.app/",
             buttonLink: "https://github.com/AndresHndz0124/Proyecto-4-React"
         },
         {
             image: "https://img.freepik.com/free-vector/dashboard-interface-user-panel-template_52683-23323.jpg",
             title: "Dashboard App",
-            text: "Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.",
+            text: "This app aims to put JavaScript skills into practice to connect to an API and graph the values ​​related to Cryptocurrencies.",
             url: "https://aesthetic-buttercream-14a564.netlify.app/",
             buttonLink: "https://github.com/AndresHndz0124/Proyecto-3.-Dashboard-App"
         },
         {
             image: "https://img.freepik.com/free-vector/app-development-concept-with-modern-style_23-2147864205.jpg",
-            title: "Fronted Aplicación CRUD",
-            text: "Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.",
+            title: "Frontend CRUD Application",
+            text: "Webpage based on CRUD processes, through which it is possible to facilitate the view, search, and modification of information within the interface.",
             url: "https://coruscating-rolypoly-2efc0c.netlify.app/",
             buttonLink: "https://github.com/AndresHndz0124/Proyecto-2-Fronted-APP-CRUD"
         },
         {
             image: "https://img.freepik.com/free-vector/travel-onboarding-app-screens_23-2148400931.jpg",
-            title: "Landing de Negocio",
-            text: "Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.",
+            title: "Business Landing",
+            text: "UCAMP Bootcamp's first Frontend project based on HTML5, CSS, and includes Flexbox, Grids, and responsive web design techniques.",
             url: "https://euphonious-lebkuchen-c4ca44.netlify.app/",
             buttonLink: "https://github.com/AndresHndz0124/Proyecto1-Fronted"
         },
     ];
 
+
     return (
         <section id="three" class="main style1 special">
             <div class="container">
                 <header class="major">
-                    <h2>Proyectos desarrolados durante el bootcamp!</h2>
+                    <h2>Proyectos FullStack desarrolados!</h2>
                 </header>
                 <p>Los siguientes proyectos fueron desarrolados como entregas finales de cada uno de los modulos que componian el bootcamp. Para conocer un poco más de como fue su implementación te dejo una prequeña descripción y link directo al repositorio de cada uno.
                 </p>
