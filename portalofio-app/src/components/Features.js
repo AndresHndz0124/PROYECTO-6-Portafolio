@@ -53,9 +53,9 @@ function Features() {
         <section id="three" class="main style1 special">
             <div class="container">
                 <header class="major">
-                    <h2>Proyectos FullStack desarrolados!</h2>
+                    <h2>FullStack projects developed!</h2>
                 </header>
-                <p>Los siguientes proyectos fueron desarrolados como entregas finales de cada uno de los modulos que componian el bootcamp. Para conocer un poco más de como fue su implementación te dejo una prequeña descripción y link directo al repositorio de cada uno.
+                <p>The following projects were developed as final submissions for each of the modules that made up the bootcamp. To learn a little more about how they were implemented, I'll provide a brief description and a direct link to the repository of each one
                 </p>
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     {cardsData.map((card, index) => (
